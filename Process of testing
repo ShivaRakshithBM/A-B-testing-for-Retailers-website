@@ -5,8 +5,8 @@ A/B testing is not an one off thing. It is a continuous improvement cyclic proce
 Check, Act.
 These 4 steps can be divided into 6 steps for a data driven strategy to achieve flasless conversion of the leads into customers.
 1) Collect Data
-2) Propose Goals
-3) Assign Hypothesis
+2) Assign Goals
+3) Propose Hypothesis
 4) Build variations
 5) Run the experimnet
 6) Analyse the results
@@ -15,3 +15,15 @@ These 4 steps can be divided into 6 steps for a data driven strategy to achieve 
 1) Collect Data:
 Web analytics is the best palce for getting the data, and Surveys being the second option. REceived the data regarding the top exit pages,
 highest bounce rate pages, funnel drop off rates from Google analytics data.
+
+Also received data regaring what kind of problems the users faced via Surveys. Also, what kind of improvements can be done, what is the 
+purpose the customer uses our website.
+
+The data was rich and sufficient.
+
+2) Assign Goals: 
+
+USed the PIE framework for determining which page should be intially targetted: Potential, Importance, Ease. Weights from 1 to 5 are
+asssigned to each of the pages in the website. The top 4 pages with the highest weight were considered for revamping  
+
+The Goal was to increase the REvenue, indeed maximising the conversion ratio of the online customers.
